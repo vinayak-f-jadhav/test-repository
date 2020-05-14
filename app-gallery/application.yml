@@ -1,0 +1,37 @@
+---
+id: b8766d0d787e428aaadec773eb216294
+name: Public Git Application
+images:
+  - name: thumbnail.png
+    description: image for thumbnail
+    type: thumbnail
+    url: /app-gallery/images/thumbnail.png
+  - name: image1.png
+    description: image for carousel
+    type: carousel
+    url: /app-gallery/images/image1.png
+  - name: image2.png
+    description: image for carousel
+    type: carousel
+    url: /app-gallery/images/image2.png
+  - name: image3.png
+    description: image for carousel
+    type: carousel
+    url: /app-gallery/images/image3.png
+  - name: image4.png
+    description: image for carousel
+    type: carousel
+    url: /app-gallery/images/image4.png
+description: PebblePost seamlessly transforms online interest and intent data into high performing, in-home Programmatic Direct Mail® that helps brands acquire new customers and retain existing ones. Consumers visit a brand's website and leave behind powerful purchase intent signals. PebblePost leverages this intelligence to help brands reconnect with those consumers offline via a timely, relevant message, delivered in-home. Because we start with digital, the Programmatic Direct Mail® platform tracks real-time response path activity through conversion. The closed-loop platform integrates segmentation, campaign management, production, analytics and optimization. Hundreds of brands across retail, travel, financial services, and education see success with Programmatic Direct Mail®. The integration with Launch by Adobe makes it easier than ever for brands to activate the PebblePost Programmatic Direct Mail® solution so they can start generating revenue right away.
+author:
+  name: Vinayak Jadhav
+platform:
+  channel:  WEB
+category: ESP
+version: '1.0'
+actions:
+  - name: LaunchAction
+    type: LAUNCH
+    url: https://info.pebblepost.com/what-is-programmatic-direct-mail
+    primary: true
+    subType: website
